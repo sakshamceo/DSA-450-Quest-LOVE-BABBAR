@@ -1,3 +1,4 @@
+//Maximum and minimum of an array using minimum number of comparisons
 pair<long long, long long> getMinMax(long long a[], int n) {
     pair <long long , long long>res;
     int max=INT_MIN,min=INT_MAX;
